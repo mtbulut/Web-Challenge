@@ -6,7 +6,7 @@ body {
     font-size: 18px;
     line-height: 150%;
     color: #333;
-    background: #eeebd7;
+    background: #bbc9d8;
     position:relative;
   }
   /* body .first_line{background: yellowgreen;
@@ -118,14 +118,14 @@ body {
   }
   
   #main_figure{
-    /* width: 250px;
+    width: 250px;
     height: 250px;
     border-style: solid;
     border-color: green;
-    border-width: 5px; */
-    /* position:absolute;
-    top:50px; */
-    /* left:50px;   */
+    border-width: 5px; 
+    position:absolute;
+    top:50px; 
+    left:50px;  
     float:left
   }
   
